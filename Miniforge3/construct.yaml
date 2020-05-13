@@ -19,3 +19,9 @@ specs:
   - conda {{ version.split("-")[0] }}
   - pip
   - bzip2
+  - fasteners
+  - monotonic
+  - setuptools
+  - six
+  - termcolor
+  - wcwidth
